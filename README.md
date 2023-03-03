@@ -9,5 +9,5 @@ Tools used:
 
 Datasets: https://ourworldindata.org/covid-deaths
 
-# Contributing
+#### Contributing
 If you find any bugs or issues with this script, please feel free to open an issue or submit a pull request.
